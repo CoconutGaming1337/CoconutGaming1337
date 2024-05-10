@@ -1,16 +1,19 @@
-### Hi there 👋
+# CoconutGaming1337
+Hello! I'm Coco, a developer with a passion for hardware and server/communication technology. My programming career began in late 2016, and since then, I've leveraged my skills in a variety of innovative projects. I'm dedicated to continuous learning and applying my knowledge to solve new challenges in technology.
 
-<!--
-**CoconutGaming1337/CoconutGaming1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills and Experience
+* 🎮 Lua/LuaU: Extensive use since 2016, primarily in Roblox development.
+* 🏫 Python: Learned and used in school projects for 1-2 years, not actively used recently.
+* 🌏 HTML/CSS: Utilized for a one-time project; basic proficiency.
+* 📱 Java/JS: Currently utilized for external applications (Mobile-Apps and Discord Bots).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🖥️ C++: Currently in-learning.
+
+[![Lua](https://img.shields.io/badge/Lua-darkblue)](https://www.lua.org) [![Luau](https://img.shields.io/badge/Luau-cyan)](https://luau-lang.org/) [![Python](https://img.shields.io/badge/Python-yellow)](https://www.python.org) ![HTML5](https://img.shields.io/badge/HTML-red) ![CSS](https://img.shields.io/badge/CSS-blue) [![Java](https://img.shields.io/badge/Java-grey)](https://www.java.com/) ![JavaScript](https://img.shields.io/badge/JavaScript-brown) ![C++](https://img.shields.io/badge/C++-blue)
+
+
+
+Besides my development work, I've also taken on the role of a system administrator, managing an external website for a year (Setup, Installations...).
+
+[![cPanel](https://img.shields.io/badge/cPanel-orange)](https://www.cpanel.net)
