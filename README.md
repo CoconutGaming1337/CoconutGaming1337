@@ -3,7 +3,7 @@ Hello! I'm Coco, a developer with a passion for hardware and server/communicatio
 
 
 ## Skills and Experience
-* 🎮 Lua/LuaU: Extensive use since 2016, primarily in Roblox development.
+* 🎮 Lua/Luau: Extensive use since 2016, primarily in Roblox development.
 * 🏫 Python: Learned and used in school projects for 1-2 years, not actively used recently.
 * 🌏 HTML/CSS: Utilized for a one-time project; basic proficiency.
 * 📱 Java/JS: Currently utilized for external applications (Mobile-Apps and Discord Bots).
