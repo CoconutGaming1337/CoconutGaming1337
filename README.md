@@ -8,9 +8,8 @@ Hello! I'm Coco, a developer with a passion for hardware and server/communicatio
 * 📱 Java/JS: Currently utilized for external applications (Mobile-Apps and Discord Bots).
 
 * 🖥️ C++: Currently in-learning.
-* 💾 SQL: Currently in-learning.
 
-[![Lua](https://img.shields.io/badge/Lua-darkblue)](https://www.lua.org) [![Luau](https://img.shields.io/badge/Luau-cyan)](https://luau-lang.org/) [![Java](https://img.shields.io/badge/Java-grey)](https://www.java.com/) ![JavaScript](https://img.shields.io/badge/JavaScript-brown) ![C++](https://img.shields.io/badge/C++-blue) ![SQL](https://img.shields.io/badge/SQL-purple)
+[![Lua](https://img.shields.io/badge/Lua-darkblue)](https://www.lua.org) [![Luau](https://img.shields.io/badge/Luau-cyan)](https://luau-lang.org/) [![Java](https://img.shields.io/badge/Java-grey)](https://www.java.com/) ![JavaScript](https://img.shields.io/badge/JavaScript-brown) ![C++](https://img.shields.io/badge/C++-blue)
 
 
 
