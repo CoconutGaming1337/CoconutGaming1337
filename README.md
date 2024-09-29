@@ -7,9 +7,9 @@ Hello! I'm Coco, a developer with a passion for hardware and server/communicatio
 * 🏫 Python: Learned and used in school projects for 1-2 years, not actively used recently.
 * 📱 Java/JS: Currently utilized for external applications (Mobile-Apps and Discord Bots).
 
-* 🖥️ C++: Currently in-learning.
+* 🖥️ C/C++: Currently in-learning.
 
-[![Lua](https://img.shields.io/badge/Lua-darkblue)](https://www.lua.org) [![Luau](https://img.shields.io/badge/Luau-cyan)](https://luau-lang.org/) [![Java](https://img.shields.io/badge/Java-grey)](https://www.java.com/) ![JavaScript](https://img.shields.io/badge/JavaScript-brown) ![C++](https://img.shields.io/badge/C++-blue)
+[![Lua](https://img.shields.io/badge/Lua-darkblue)](https://www.lua.org) [![Luau](https://img.shields.io/badge/Luau-cyan)](https://luau-lang.org/) [![Java](https://img.shields.io/badge/Java-grey)](https://www.java.com/) ![JavaScript](https://img.shields.io/badge/JavaScript-brown) ![C++](https://img.shields.io/badge/C-lightblue) ![C++](https://img.shields.io/badge/C++-blue)
 
 
 
